@@ -1,27 +1,26 @@
-# Val Cushing Matte Base
+# Val Cushing Polished Matte Base
 
-## Cone Range
+## Cone Range 5 - 6
 
-- Cone 5 - 6
+
 
 ## Recipe
-
-- Kona F-4 Feldspar 20
-- Custer Feldspar 
-- Ingredient 3
 
 | Ingredient        | Amount |
 | ----------------- | ------ |
 | Kona F-4 Feldspar | 20     |
-| next              | blah   |
-|                   |        |
-|                   |        |
-|                   |        |
-|                   |        |
+| Custer Feldspar   | 20     |
+| Spodumene         | 20     |
+| Dolomite          | 20     |
+| Whiting           | 5      |
+| Kaolin            | 15     |
+| ----------------- | ------ |
+| Total             | 100    |
 
+## Additions
+- VC suggests 6% Tin Oxide. Have tried and liked the bluish tone added.
 
 ## Substitutions
-
-- NO substitutions yet.
+- This was the glaze used at Konstepidemin residency summer 2017. Results were a bit more brown than expected. 
 
 
